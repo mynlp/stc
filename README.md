@@ -17,7 +17,7 @@ Tweets are provided as tweet IDs (id_str).  Download original texts
 using twitter API, or buy the data by contacting the following
 address:
 
-* Email: info<at>nazuki-oto.com
+* Email: info`<at>`nazuki-oto.com
 * Dataset name: NTCIR STC Japanese subtask data set
 
 ## Schedule
