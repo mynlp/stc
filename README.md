@@ -40,4 +40,7 @@ address:
   * Task data fixed (some pairs are randomly removed so that the task data
     contains exactly one million tweets)
   * Development data released
-
+* Feb. 8, 2016:
+  * The list of deleted tweets released
+  * The rules for formal run submission released
+  
