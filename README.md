@@ -44,3 +44,6 @@ address:
   * The list of deleted tweets released
   * The rules for formal run submission released
 * Feb. 15, 2016: Test data released
+* Jun. 27, 2016:
+  * Test data and annotated labels released
+
