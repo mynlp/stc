@@ -48,11 +48,11 @@ We will accept registration until the formal run begins. See the schedule below.
 ## Schedule of Japanese Subtask
 
 * Release of the Yahoo! News comments data and starts accepting registration: Jun 11, 2017
-* Release of the development data: Jul 1, 2017
+* Release of the development data: ~~Jul 1, 2017~~ Jul 21, 2017
 * Task registration due: July 23, 2017 (Important: submission & evaluation)
 * Formal run start (test data release): July 24, 2017
-* STC run submission deadline: July 31, 2017
-* Relevance assessments: August 1-31, 2017
+* STC run submission deadline: ~~July 31, 2017~~ August 13
+* Relevance assessments: ~~August 1-31, 2017~~ August 14-31, 2017
 * Results and Draft Task overview released to participants: Sep 1 2017
 * Participants draft papers due: Oct 1 2017
 * All camera ready papers due: Nov 1 2017
