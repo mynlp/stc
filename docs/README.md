@@ -36,14 +36,9 @@ some context), and 2 (appropriate) by multiple judges. The rate of appropriate a
 information retrieval (IR) related measures (graded relevance IR measures) will be used as
 evaluation metrics.
 
-## Registration (still open)
+## Registration
 
-Register through the official site of NTCIR-13.
-
-[http://ntcir.nii.ac.jp/NTCIR13Regist/](http://ntcir.nii.ac.jp/NTCIR13Regist/)
-
-We will provide details to the address you provide to this site.
-We will accept registration until the formal run begins. See the schedule below.
+Registration is closed.
 
 ## Schedule of Japanese Subtask
 
